@@ -8,7 +8,8 @@ Sistema bancário desenvolvido em Java aplicando os pilares de POO: herança, po
    git clone https://github.com/SEU_USUARIO/banco-digital-java.git
 ```
 2. Abra na sua IDE de preferência
-3. Abra a pasta "src" Compile e execute o arquivo `Main.java`
+3. Abra a pasta "src"
+4. Compile e execute o arquivo `Main.java`
 
 ## Decisões de design
 
