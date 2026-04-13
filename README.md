@@ -3,7 +3,7 @@ Sistema bancário desenvolvido em Java aplicando os pilares de POO: herança, po
 
 ## Como rodar
 
-1. Clone o repositório
+1. Clone o repositório ou faça download dos arquivos do repositório
 ```bash
    git clone https://github.com/SEU_USUARIO/banco-digital-java.git
 ```
@@ -18,6 +18,4 @@ Sistema bancário desenvolvido em Java aplicando os pilares de POO: herança, po
 - **Exceções como `RuntimeException`** porque erros de negócio como saldo insuficiente são responsabilidade de quem chama o método, não do compilador.
 
 ## Tecnologias
-
 - Java 11+
-- POO puro (sem frameworks externos)
