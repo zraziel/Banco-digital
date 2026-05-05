@@ -18,4 +18,4 @@ Sistema bancário desenvolvido em Java aplicando os pilares de POO: herança, po
 - **Exceções como `RuntimeException`** porque erros de negócio como saldo insuficiente são responsabilidade de quem chama o método, não do compilador.
 
 ## Tecnologias
-- Java 11+
+- Java 8
